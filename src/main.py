@@ -1,1 +1,1 @@
-print('master branch')
+print('no conflict')
