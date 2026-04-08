@@ -1,1 +1,1 @@
-print('Git 활용 코드')
+print('master branch')
